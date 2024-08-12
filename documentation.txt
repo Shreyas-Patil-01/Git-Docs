@@ -1,0 +1,16 @@
+Class: Calculator
+
+Function: __init__
+Summary: def __init__(self, num1, num2): num1 = num1 num2 = num2. self.num
+
+Function: add
+Summary: def add(self): return self.num1 + self. num2. def add( self): return    return self
+
+Function: subtract
+Summary: def subtract(self): return self.num1 - self. num2. def add(self) : return self.: add self
+
+Function: multiply
+Summary: def multiply(self): return self.num1 * self. num2. def multiply( self): return    return self
+
+Function: divide
+Summary:  def divide(self): if self.num2 != 0: return "Division by zero error" else: return self. num
