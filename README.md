@@ -61,8 +61,8 @@ By automating the documentation process, this tool simplifies the maintenance of
 ### Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shreyas-Patil-01/Automated-Code-Documentation-Tool.git
-   cd Automated-Code-Documentation-Tool
+   git clone https://github.com/Shreyas-Patil-01/Git-Docs.git
+   cd Git-Docs
 
 ### Contributing
 Contributions are welcome! Feel free to create an issue or submit a pull request.
