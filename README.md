@@ -71,5 +71,5 @@ Contributions are welcome! Feel free to create an issue or submit a pull request
 For any inquiries or questions, please contact me:
 
 - **Name**: Shreyas Patil
-- **Email**: your-email@example.com
+- **Email**: shreyaspatil4780@gmail.com
 - **GitHub**: Shreyas-Patil-01
